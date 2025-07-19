@@ -1,0 +1,15 @@
+i=0
+while(i<=10):
+    print(i)
+    i+=1
+################################
+i=(int(input("")))
+while(i<=5):
+    print("kevin")
+    i+=1
+#################################
+a=[1,2,"mango",5,"fruits"]
+i=0
+while(i<len(a)):
+    print(a[i])
+    i+=1
